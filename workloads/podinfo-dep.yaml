@@ -33,7 +33,7 @@ spec:
         - "1"
       containers:
       - name: podinfod
-        image: samdidfds/podinfo:dev-sse308pc
+        image: samdidfds/podinfo:dev-06xzr2o9
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 9898
